@@ -14,6 +14,7 @@ class Testsudent{
 		Student s1=new Student();
 		s1.insertRecord(10,"vasu");
 		s1.display();
+		System.out.println("haiiiiiiiiiiii");
 	}
 }
 		      
